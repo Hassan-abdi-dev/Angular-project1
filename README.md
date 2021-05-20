@@ -1,6 +1,8 @@
 #### Angular project 1
 ## Description
 This is a project that is about creating quotes where people can upvote and downvote a quote
+
+Here is the live link https://hassan-abdi-dev.github.io/Angular-project1/
 ## Setup/Installation Requirements
 * One needs to create a new project using ng new project name in the terminal
 * You then run the command ng serve to see where you'll be viewing the project
